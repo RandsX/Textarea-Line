@@ -1,0 +1,53 @@
+/**
+Developed By RandsX
+**/
+
+.textarea-active, .textarea-wrapper, .textarea-line {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  vertical-align: middle;
+  list-style: none;
+  font-weight: bold;
+}
+.textarea-active {
+  display: inline-block;
+  padding: 0.625em;
+  width: calc(100% - 3em);
+  height: 100%;
+  font-size: 1em;
+  line-height: 1.5;
+  font-family: "Roboto Mono", monospace;
+  word-break: break-all;
+  border: 1px solid #aeaeae;
+  background-color: #fff;
+  resize: none;
+  overflow-wrap: normal;
+  overflow-x: auto;
+  white-space: pre;
+}
+.textarea-wrapper {
+  width: 3em;
+  padding: 0.6875em 0.3125em 2.1875em;
+  height: 100%;
+  word-break: break-all;
+  overflow: hidden;
+  display: inline-block;
+  counter-reset: line;
+}
+.textarea-line {
+  width: 100%;
+  display: block;
+  text-align: center;
+  line-height: 1.5;
+  font-size: 1em;
+  color: #aeaeae;
+}
+.textarea-line::before {
+  counter-increment: line;
+  content: counter(line);
+  font-size: 1em;
+  user-select: none;
+}
