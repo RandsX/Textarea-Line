@@ -26,7 +26,7 @@ Example code
   <link rel="stylesheet" href="https://rawcdn.githack.com/RandsX/Textarea-Line/a7b8ad93e95caed275ef4a244522d363d4a0ebd4/css/TextareaLine.min.css" type="text/css" media="all" />
   <style type="text/css" media="all">
     /* THIS IS VERY IMPORTANT, FOR ID NAME OR CLASS YOU CAN LIKE YOU! */
-    #wrapper {
+    .example {
       background-color: black;
       color: white;
       border: 1px solid black;
@@ -39,7 +39,7 @@ Example code
   <script src="https://rawcdn.githack.com/RandsX/Textarea-Line/a7b8ad93e95caed275ef4a244522d363d4a0ebd4/js/TextareaLine.min.js" type="text/javascript" charset="utf-8"></script>
 </head>
 <body onload="TextareaLine.appendLineNumber('YourTextareaIDName');">
-  <div id="wrapper">
+  <div class="example">
     <textarea id="YourTextareaIDName"></textarea>
   </div>
 </body>
