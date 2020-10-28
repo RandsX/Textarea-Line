@@ -53,3 +53,4 @@ The document with class name ```example``` is a parent to hold your textarea.
 ## Support By
 - 22XploiterCrew
 - Infinity Cyber Team
+- Tegal6etar
