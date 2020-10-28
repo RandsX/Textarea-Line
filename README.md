@@ -48,3 +48,4 @@ Example code
 </body>
 </html>
 ```
+The document with class name ```example``` is a parent to hold your textarea.
