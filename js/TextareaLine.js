@@ -1,3 +1,7 @@
+/**
+Developed By RandsX
+**/
+
 const TextareaLine = {
   eventList: {},
   
