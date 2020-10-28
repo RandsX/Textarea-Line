@@ -11,5 +11,5 @@ https://rawcdn.githack.com/RandsX/Textarea-Line/a7b8ad93e95caed275ef4a244522d363
 
 Javascript File
 ``` JavaScript
-https://rawcdn.githack.com/Rands/Textarea-Line/main/js/TextareaLine.min.js
+https://rawcdn.githack.com/RandsX/Textarea-Line/a7b8ad93e95caed275ef4a244522d363d4a0ebd4/js/TextareaLine.min.js
 ```
