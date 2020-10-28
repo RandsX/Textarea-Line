@@ -1,6 +1,6 @@
 # Textarea Line Number
 Modified textarea field with line number.
-![ImagesContoh](img/images.png)
+![Gambar Contoh](img/images.png)
 
 ## How to use ?
 ### Import With RawCDN
@@ -49,3 +49,7 @@ Example code
 </html>
 ```
 The document with class name ```example``` is a parent to hold your textarea.
+
+## Support By
+- 22XploiterCrew
+- Infinity Cyber Team
