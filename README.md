@@ -15,7 +15,7 @@ https://rawcdn.githack.com/RandsX/Textarea-Line/a7b8ad93e95caed275ef4a244522d363
 ```
 
 Example code
-``` Html
+``` HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
